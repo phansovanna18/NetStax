@@ -1,4 +1,4 @@
-# p0sixclone
+# NetStax
 
 ## Project setup
 ```
